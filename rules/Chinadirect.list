@@ -1,1 +1,7 @@
-
+#  我的直连规则
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,lenovo.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,honor.com
+DOMAIN-SUFFIX,hp.com
