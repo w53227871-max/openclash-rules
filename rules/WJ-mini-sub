@@ -17,6 +17,7 @@ ruleset=🎯 全球直连,rules/ACL4SSR/Clash/Ruleset/SteamCN.list
 ruleset=🚀 节点选择,rules/ACL4SSR/Clash/Telegram.list
 ruleset=🚀 节点选择,rules/ACL4SSR/Clash/ProxyMedia.list
 ruleset=🚀 节点选择,rules/ACL4SSR/Clash/ProxyLite.list
+ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,rules/ACL4SSR/Clash/ChinaCompanyIp.list
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
