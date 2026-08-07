@@ -1,5 +1,4 @@
-# 必读！！！
-# 此配置不防DNS泄露，想使用防泄漏专业版本请使用同目录下另一个名字为mihomo的版本
+# 防DNS泄露
 # 机场订阅
 proxy-providers:
   Airport1:
