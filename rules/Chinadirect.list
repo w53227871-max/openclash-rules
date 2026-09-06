@@ -1,4 +1,6 @@
 #  我的直连规则
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,honor.com
@@ -13,3 +15,5 @@ DOMAIN-SUFFIX,iqihang.com
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,amd.com
